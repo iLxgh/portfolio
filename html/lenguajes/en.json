@@ -1,0 +1,30 @@
+{
+    "presentacion": {
+    "titulo": "Full stack Developer",
+    "subtitulo": "I am dedicated to <strong class='negritas'>creating</strong> innovative solutions and digital experiences for the ever-evolving technology landscape. As a young enthusiast, I enthusiastically explore the limitless realm of <strong class='negritas'>technology</strong>.",
+    "lista1": "About",
+    "lista2": "Proyects",
+    "lista3": "Skills"
+},
+    "botones": {
+    "boton1": "Changue languague ES",
+    "boton2": "Changue languague EN"
+},
+    "columna derecha": {
+    "habilidades":"Skills",
+    "proyectos":"Projects",
+    "sobremi": "Since 2021, I've embarked on a dynamic journey into the world of  <strong class='negritas'>modern development</strong>. Passionate about web technologies, I've enthusiastically dived into coding and web development, always hungry to <strong class='negritas'>learn and grow</strong>. My journey has been brief but I'm committed to continuous improvement <strong class='negritas'>day by day</strong>. <br><br>While my <strong class='negritas'>journey</strong> may be short, my dedication is unwavering. I'm eager to make my mark and <strong class='negritas'>collaborate</strong> with like-minded individuals and companies. Even without prior work experience, I'm fuelled by a determination to create meaningful and impactful <strong class='negritas'>digital solutions</strong>."
+},
+    "proyectos": {
+    "shop":"A minimalist design of an online <strong class='negritas'>store</strong>, with <strong class='negritas'>5</strong> sections, made with <strong class='negritas'>HTML, CSS</strong> and <strong class='negritas'>JS</strong>.",
+    "portfolio": "My portfolio, created with <strong class='negritas'>HTML</strong>, <strong class='negritas'>CSS</strong> and <strong class='negritas'>JS</strong>, reflects my passion for <strong class='negritas'>minimalist</strong> design and the digital <strong class='negritas'>environment</strong>.",
+    "boton": "View Proyect"
+},
+
+    "pie": {
+    "desde": "f r o m",
+    "mexico": "MEXICO",
+    "hecho": "Made from <strong class='negritas'>Visual Studio Code</strong>, with pure <strong class='negritas'>HTML</strong> (<em>HyperText Markup Language</em>), <strong class='negritas'>CSS</strong> (<em>Cascading Style Sheets</em>) and <strong class='negritas'>JavaScript</strong>, Deployed with Vercel."
+    }
+
+}

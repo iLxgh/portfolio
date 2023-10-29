@@ -1,0 +1,31 @@
+{
+    "presentacion": {
+    "titulo": "Desarrollador Full Stack",
+    "subtitulo": "Me dedico a <strong class='negritas'>crear</strong> soluciones innovadoras y experiencias digitales para el panorama tecnológico en constante evolución. Como joven entusiasta, exploro con entusiasmo el reino ilimitado de la <strong class='negritas'>tecnología.</strong>",
+    "lista1": "Sobre mi",
+    "lista2": "Proyectos",
+    "lista3": "Habilidades"
+},
+    "botones": {
+    "boton1": "Cambiar lenguaje ES",
+    "boton2": "Cambiar lenguaje EN"
+},
+    "columna derecha": {
+    "habilidades":"Habilidades",
+    "proyectos":"Proyectos",
+    "sobremi": "Desde 2021, me he embarcado en un viaje dinámico hacia el mundo del <strong class='negritas'>desarrollo moderno</strong>. Apasionado por las tecnologías web, me he sumergido con entusiasmo en la codificación y el desarrollo web, siempre con hambre de <strong class='negritas'>aprender y crecer</strong>. Mi recorrido ha sido breve pero estoy comprometido con la mejora continua <strong class='negritas'>día a día</strong>. <br><br>Si bien mi <strong class='negritas'>viaje</strong> puede ser corto, mi dedicación es inquebrantable. Estoy ansioso por dejar mi huella y <strong class='negritas'>colaborar</strong> con personas y empresas de ideas afines. Me impulsa la determinación de crear <strong class='negritas'>soluciones digitales</strong> significativas e impactantes."
+},
+    "proyectos": {
+    "shop":"Un diseño minimalista de una <strong class='negritas'>tienda</strong> online, con <strong class='negritas'>5</strong> secciones, realizada con <strong class='negritas'>HTML, CSS</strong> y <strong class='negritas'>JS</strong>.",
+    "portfolio":"Mi portafolio, creado con <strong class='negritas'>HTML</strong>, <strong class='negritas'>CSS</strong> y <strong class='negritas'>JS</strong>, refleja mi pasión para el diseño <strong class='negritas'>minimalista</strong> y el <strong class='negritas'>entorno</strong> digital.",
+    "boton": "Ver Proyecto"
+},
+
+    "pie": {
+    "desde": "f r o m",
+    "mexico": "MÉXICO",
+    "hecho": "Hecho desde <strong class='negritas'>Visual Studio Code</strong>, con <strong class='negritas'>HTML</strong> (<em>Lenguaje de Marcado de Hipertexto</em>), <strong class= 'negritas'>CSS</strong> (<em>Hojas de estilo en cascada</em>) y <strong class='negritas'>JavaScript</strong> puro, implementado desde Vercel."
+}
+
+
+}
